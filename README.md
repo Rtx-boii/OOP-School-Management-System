@@ -9,4 +9,4 @@ Made in collaboration with :
 
 Important :
 - The src directory contains the java files
-- MySQL_OOP_Project_Database_File.sql file contains the database script
+- MySQL_OOP_Project_Database_File.sql file contains the database script.
